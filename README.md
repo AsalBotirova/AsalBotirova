@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Asal 👋
 
-<!--
-**AsalBotirova/AsalBotirova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student majoring in Cybersecurity at New Uzbekistan University.
+I'm drawn to the space where AI and security meet — curious about 
+what intelligent systems can do, and equally curious about what they can't.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Python · C++ · Java
+- **IDEs:** VS Code · IntelliJ IDEA · CLion
+- **Tools:** GitHub · macOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Working On
+- Library Management System (Java, OOP) — team project
+- Exploring AI/ML fundamentals
+- Self-studying Cybersecurity concepts
+
+## ♟️ Beyond Code
+When I'm not coding, you'll find me at a chess or checkers board — 
+or on a tennis court.
+
+## 📫 Let's Connect
+[LinkedIn → Asal Botirova](https://www.linkedin.com/in/asal-botirova)
