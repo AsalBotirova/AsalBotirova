@@ -6,7 +6,7 @@ what intelligent systems can do, and equally curious about what they can't.
 
 ## 🛠 Tech Stack
 - **Languages:** Python · C++ · Java
-- **IDEs:** VS Code · IntelliJ IDEA · CLion
+- **IDEs:** VS Code · CLion · IntelliJ IDEA
 - **Tools:** GitHub · macOS
 
 ## 📚 Currently Working On
