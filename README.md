@@ -9,8 +9,10 @@ what intelligent systems can do, and equally curious about what they can't.
 - **IDEs:** VS Code · CLion · IntelliJ IDEA
 - **Tools:** GitHub · macOS
 
-## 📚 Currently Working On
+## Projects
 - Library Management System (Java, OOP) — team project
+
+## 📚 Currently Working On
 - Exploring AI/ML fundamentals
 - Self-studying Cybersecurity concepts
 
