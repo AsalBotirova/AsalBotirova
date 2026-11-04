@@ -1,24 +1,24 @@
-# Hi, I'm Asal 👋
+# Asal Botirova
 
-CS student majoring in Cybersecurity at New Uzbekistan University.
-I'm drawn to the space where AI and security meet — curious about 
-what intelligent systems can do, and equally curious about what they can't.
+Cybersecurity student at New Uzbekistan University (class of 2029), working toward penetration testing.
 
-## 🛠 Tech Stack
-- **Languages:** Python · C++ · Java
-- **IDEs:** VS Code · CLion · IntelliJ IDEA
-- **Tools:** GitHub · macOS
+## What I'm doing now
+
+- Hands-on labs on [TryHackMe](https://tryhackme.com/p/AsalB) (Pre Security completed, Cyber Security 101 nearly done) and Hack The Box (Junior Cybersecurity Analyst path)
+- Practicing in a Kali Linux VM
+- Core team member at Bitwalls, my university's cybersecurity club. I helped plan the fundamentals course and taught the session on cryptography
+- Co-founder of ssh she@hacks, a community for girls interested in cybersecurity
+
+## Skills
+
+**Languages:** Python, Java, C++ (coursework)
+**Security:** Linux, networking fundamentals (TCP/IP, DNS, HTTP), Kali Linux
+**Tools:** Git, GitHub
 
 ## Projects
-- Library Management System (Java, OOP) — team project
 
-## 📚 Currently Working On
-- Exploring AI/ML fundamentals
-- Self-studying Cybersecurity concepts
+- **Library Management System**: team project in Java, built with OOP principles. [Repo](link)
 
-## ♟️ Beyond Code
-When I'm not coding, you'll find me at a chess or checkers board — 
-or on a tennis court.
+## Contact
 
-## 📫 Let's Connect
-[LinkedIn → Asal Botirova](https://www.linkedin.com/in/asal-botirova)
+[LinkedIn](https://www.linkedin.com/in/asal-botirova) · [TryHackMe](https://tryhackme.com/p/AsalB)
